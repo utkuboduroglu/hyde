@@ -36,6 +36,8 @@
     ],
     jax: ["input/TeX", "output/CommonHTML"],
     TeX: {
+      inlineMath: [['$', '$'], ["\\(", "\\)"] ],
+      processEscapes: true,
       extensions: [
         "AMSmath.js",
         "AMSsymbols.js",
