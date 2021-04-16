@@ -9,6 +9,7 @@ I am Utku, a math major @ METU and a member of METU Racing Driverless, and this 
 If I'm making any progress with programming projects, they will most likely be hosted on [my github page](https://github.com/utkuboduroglu). Currently, I'm working on:
 
 * Writing a [simple http server](https://github.com/utkuboduroglu/simple-http-server) in C++ (and hopefully Rust in the future).
-* Working on a tabletop RPG.
+* Working on a multiplayer dungeon crawler.
+* Interested in Category theory and Topology.
 
 ![https://poorlydrawnlines.com/comic/a-dog/](https://poorlydrawnlines.com/wp-content/uploads/2019/03/a-dog.png)
