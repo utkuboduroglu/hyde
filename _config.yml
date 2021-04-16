@@ -10,7 +10,7 @@ title:            universal yapping property
 tagline:          'uyp - math/cs-related things'
 description:      'A personal blog for recording (proof, code)writing progress. Theme Hyde made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
 url:              https://utkuboduroglu.github.io/
-baseurl:          /
+baseurl:          https://utkuboduroglu.github.io/
 
 author:
   name:           'Utku Boduroğlu'
